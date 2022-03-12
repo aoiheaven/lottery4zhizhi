@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.74af45ab.css",
-    "main.js": "/static/js/main.45bab8d4.js",
-    "static/js/787.bf6a0c9b.chunk.js": "/static/js/787.bf6a0c9b.chunk.js",
-    "index.html": "/index.html",
-    "main.74af45ab.css.map": "/static/css/main.74af45ab.css.map",
-    "main.45bab8d4.js.map": "/static/js/main.45bab8d4.js.map",
-    "787.bf6a0c9b.chunk.js.map": "/static/js/787.bf6a0c9b.chunk.js.map"
+    "main.css": "/lottery4zhizhi/static/css/main.74af45ab.css",
+    "main.js": "/lottery4zhizhi/static/js/main.198665c9.js",
+    "static/js/787.bf6a0c9b.chunk.js": "/lottery4zhizhi/static/js/787.bf6a0c9b.chunk.js",
+    "index.html": "/lottery4zhizhi/index.html",
+    "main.74af45ab.css.map": "/lottery4zhizhi/static/css/main.74af45ab.css.map",
+    "main.198665c9.js.map": "/lottery4zhizhi/static/js/main.198665c9.js.map",
+    "787.bf6a0c9b.chunk.js.map": "/lottery4zhizhi/static/js/787.bf6a0c9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74af45ab.css",
-    "static/js/main.45bab8d4.js"
+    "static/js/main.198665c9.js"
   ]
 }
